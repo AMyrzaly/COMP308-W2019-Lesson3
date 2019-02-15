@@ -31,5 +31,13 @@
     "@types/express": "^4.16.1",
     "@types/morgan": "^1.7.35",
     "@types/node": "^10.12.18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMyrzaly/COMP308-W2019-Lesson3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AMyrzaly/COMP308-W2019-Lesson3/issues"
+  },
+  "homepage": "https://github.com/AMyrzaly/COMP308-W2019-Lesson3#readme"
 }
